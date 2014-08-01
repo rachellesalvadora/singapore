@@ -31,6 +31,7 @@ padding-left: 0;
 .thumb-columns {
 width: 282px;
 float: left;
+text-align: center;
 }
 
 .thumb-columns:nth-child(2n) {
