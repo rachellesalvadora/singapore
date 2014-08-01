@@ -12,3 +12,27 @@ font-weight: bold;
 display: inline-block;
 margin: 0 0 0 5px;
 }
+
+
+p.copyright {
+float: left;
+}
+
+.links-right {
+float: right;
+}
+
+.thumb {
+width: 100%;
+padding: 20px;
+padding-left: 0;
+}
+
+.thumb-columns {
+width: 282px;
+float: left;
+}
+
+.thumb-columns:nth-child(2n) {
+margin: 0 77px;
+}
