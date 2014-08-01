@@ -1,0 +1,14 @@
+.row {
+	width:1000px;
+	margin:auto;
+}
+
+.title {
+color: peru;
+font-weight: bold;
+}
+
+.links {
+display: inline-block;
+margin: 0 0 0 5px;
+}
