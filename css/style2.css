@@ -37,3 +37,15 @@ text-align: center;
 .thumb-columns:nth-child(2n) {
 margin: 0 77px;
 }
+
+.wrapper {
+height: 888px;
+}
+
+.main-title {
+color: dimgrey;
+}
+
+.main-desc {
+text-align: center;
+}
