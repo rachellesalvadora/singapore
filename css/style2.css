@@ -1,6 +1,11 @@
+p {
+text-transform: initial;
+}
+
 .row {
 	width:1000px;
 	margin:auto;
+	margin-bottom: 30px;
 }
 
 .title {
@@ -24,8 +29,7 @@ float: right;
 
 .thumb {
 width: 100%;
-padding: 20px;
-padding-left: 0;
+padding: 20px 0;
 }
 
 .thumb-columns {
@@ -39,13 +43,91 @@ margin: 0 77px;
 }
 
 .wrapper {
-height: 888px;
+height: 560px;
 }
 
 .main-title {
-color: dimgrey;
+color: rgb(56, 54, 54);
 }
 
 .main-desc {
 text-align: center;
+}
+
+.orchard-top {
+width: 96px;
+}
+
+
+.three {
+height: 510px;
+}
+
+.orchard-h1 {
+color: rgb(110, 110, 110);
+text-align: center;
+}
+
+
+.pro {
+font-weight: bold;
+}
+
+.orchard-desc {
+height: 400px;
+}
+
+nav.actions.light {
+padding: 10px 8px 0px 0px;
+}
+
+.three-p {
+font-size: 18px;
+text-shadow: none;
+}
+
+.description {
+text-align: center;
+}
+
+.desc-desc {
+font-size: 18px;
+text-shadow: none;
+}
+
+.desc-desc {
+font-size: 35px;
+width: 1000px;
+margin: auto;
+color: white;
+}
+
+.title-3 {
+text-shadow: none;
+}
+
+.orch-title {
+color: white;
+font-size: -webkit-xxx-large;
+}
+
+.footer-a {
+color: peru;
+text-transform: initial;
+}
+
+
+.orch {
+background-color: slategray;
+padding: 50px;
+}
+
+.US {
+background-color: mediumaquamarine;
+padding: 50px;
+}
+
+.highlights {
+background-color: chocolate;
+padding: 50px;
 }
